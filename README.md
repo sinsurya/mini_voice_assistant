@@ -1,5 +1,5 @@
-This is the Python Voice Assistant.
+This is a Python Voice Assistant.
 <br>
-hi to all
+It is a terminal based application.
 <br>
-hello to all
+Libraries should be installed in the respective IDEs before running the application.
